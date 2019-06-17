@@ -1,8 +1,7 @@
 # Repository Browser #
-
-Xcode Version 10.2.1 
-
-Swift 5.0
+* Xcode Version 10.2.1 
+* Swift 5.0
+* MVVM
 
 <table>
 <tr>
